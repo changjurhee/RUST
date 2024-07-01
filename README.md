@@ -6,6 +6,6 @@
 - https://doc.rust-lang.org/rust-by-example/
 - https://doc.rust-lang.org/std/index.html
 - https://doc.rust-lang.org/error_codes/error-index.html
-## How To Build
-- https::/play.rust-lang.org
+## Environments (How To Build)
+- https:/play.rust-lang.org
 - https://www.rust-lang.org/tools/install
