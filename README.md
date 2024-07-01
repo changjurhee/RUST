@@ -7,5 +7,5 @@
 - https://doc.rust-lang.org/std/index.html
 - https://doc.rust-lang.org/error_codes/error-index.html
 ## Environments (How To Build)
-- https:/play.rust-lang.org
+- https://play.rust-lang.org
 - https://www.rust-lang.org/tools/install
